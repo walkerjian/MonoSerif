@@ -1,2 +1,2 @@
 # MonoSerif
- Use TamperMonket to override fonts, spacing
+ Use TamperMonkey to override fonts, spacing
